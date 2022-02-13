@@ -1,0 +1,40 @@
+.LeftBar{
+    position: fixed;
+    width: 150px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: rgb(130, 201, 241);
+    /* background-color: black; */
+    border-radius: 0px 20px 20px 0px;
+}
+
+.Icon{
+    color: white;
+    margin: 25px;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+
+.homeImage{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    font-size: 30px;
+}
+
+.HomeIcon{
+    margin: 20px;
+}
+.MessageIcon{
+    margin-bottom: 20px;
+}
+.SettingIcon{
+    margin-bottom: 380px;
+}
+.exitIcon{
+    color: white;
+    margin: 25px;
+    font-size: 30px;
+}
